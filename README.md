@@ -4,7 +4,7 @@ Anchor is a high-performance network authentication brute-forcing tool designed 
 
 ## Repository
 
-GitHub: https://github.com/Art-Hackers/Anchor
+GitHub: [ANCHOR](https://github.com/Art-Hackers/Anchor)
 
 ## Features
 
