@@ -1,0 +1,14 @@
+E:\Hydra\bin\Debug\net8.0\build.exe
+E:\Hydra\bin\Debug\net8.0\build.deps.json
+E:\Hydra\bin\Debug\net8.0\build.runtimeconfig.json
+E:\Hydra\bin\Debug\net8.0\build.dll
+E:\Hydra\bin\Debug\net8.0\build.pdb
+E:\Hydra\obj\Debug\net8.0\build.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hydra\obj\Debug\net8.0\build.AssemblyInfoInputs.cache
+E:\Hydra\obj\Debug\net8.0\build.AssemblyInfo.cs
+E:\Hydra\obj\Debug\net8.0\build.csproj.CoreCompileInputs.cache
+E:\Hydra\obj\Debug\net8.0\build.dll
+E:\Hydra\obj\Debug\net8.0\refint\build.dll
+E:\Hydra\obj\Debug\net8.0\build.pdb
+E:\Hydra\obj\Debug\net8.0\build.genruntimeconfig.cache
+E:\Hydra\obj\Debug\net8.0\ref\build.dll
